@@ -1,0 +1,10 @@
+--------------------------------------------------------
+dotnet run // command in API folder
+--------------------------------------------------------
+cd client      // move forward to the folder
+ng.cmd serve   // command in client folder
+--------------------------------------------------------
+
+cd ..     // back
+cd client // move forward to the folder
+
